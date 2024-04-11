@@ -1,5 +1,5 @@
 //task1
-
+console.clear()
 console.log("HELLO WORLD");
 
 //task2
